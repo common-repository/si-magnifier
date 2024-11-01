@@ -1,0 +1,349 @@
+# Copyright (C) 2018 SI Magnifier
+# This file is distributed under the same license as the SI Magnifier package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SI Magnifier 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/si-magnifier\n"
+"POT-Creation-Date: 2018-06-08 10:57:02+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: classes/MWEHookSim.php:109
+msgctxt "do not translate SIMLENSCPT"
+msgid "Something wrong with env - SIMLENSCPT not defined"
+msgstr ""
+
+#: classes/MWEHookSim.php:122
+msgctxt "magnifier lens"
+msgid "Lenses"
+msgstr ""
+
+#: classes/MWEHookSim.php:123
+msgctxt "magnifier lens"
+msgid "Lens"
+msgstr ""
+
+#: classes/MWEHookSim.php:124
+msgid "Add a lens"
+msgstr ""
+
+#: classes/MWEHookSim.php:125
+msgid "Add lens"
+msgstr ""
+
+#: classes/MWEHookSim.php:126
+msgid "Edit lens"
+msgstr ""
+
+#: classes/MWEHookSim.php:127
+msgid "New lens"
+msgstr ""
+
+#: classes/MWEHookSim.php:128
+msgid "All lenses"
+msgstr ""
+
+#: classes/MWEHookSim.php:129
+msgid "View lens"
+msgstr ""
+
+#: classes/MWEHookSim.php:130
+msgid "Search lenses"
+msgstr ""
+
+#: classes/MWEHookSim.php:131
+msgid "Nothing found"
+msgstr ""
+
+#: classes/MWEHookSim.php:132
+msgid "No lenses in trash"
+msgstr ""
+
+#: classes/MWEHookSimMCE.php:144
+msgid "Please select an image."
+msgstr ""
+
+#: classes/MWEHookSimMCE.php:145
+msgid "CONFIRMATION: Remove lens?"
+msgstr ""
+
+#: classes/MWEHookSimMCE.php:146
+msgid "Select a Lens"
+msgstr ""
+
+#: classes/MWEHookSimMCE.php:147
+msgid "This image contains an invalid lens."
+msgstr ""
+
+#: classes/MWEHookSimMenuSettings.php:103
+msgid "Settings Saved"
+msgstr ""
+
+#: classes/MWEHookSimMenuSettings.php:120
+msgid "Save Settings"
+msgstr ""
+
+#: classes/MWESimLens.php:201
+msgid "Invalid cursor value"
+msgstr ""
+
+#: classes/MWESimLens.php:328
+msgid "Value failed filter or less than 0"
+msgstr ""
+
+#: classes/MWESimLens.php:334
+msgid "Value exceeded max permitted"
+msgstr ""
+
+#: classes/MWESimSetting.php:187
+msgctxt "WP user role"
+msgid "Administrator"
+msgstr ""
+
+#: classes/MWESimSetting.php:188
+msgctxt "WP user role"
+msgid "Editor"
+msgstr ""
+
+#: classes/MWESimSetting.php:189
+msgctxt "WP user role"
+msgid "Author"
+msgstr ""
+
+#: classes/MWESimSetting.php:190
+msgctxt "WP user role"
+msgid "Contributor"
+msgstr ""
+
+#: classes/MWESimSetting.php:194
+msgctxt "html checkbox label"
+msgid "Yes"
+msgstr ""
+
+#: classes/MWESimSetting.php:195
+msgctxt "html checkbox label"
+msgid "No"
+msgstr ""
+
+#: classes/MWESimSetting.php:202
+msgid "Minimum user role"
+msgstr ""
+
+#: classes/MWESimSetting.php:205
+msgid "Role &rarr; Capability map"
+msgstr ""
+
+#: classes/MWESimSetting.php:222
+msgid "Keep configuration data on uninstall"
+msgstr ""
+
+#: classes/MWESimSetting.php:223
+msgid "You may want to do this if upgrading to SIM premium."
+msgstr ""
+
+#: views/sim-lensedit.php:50
+msgid "Toggle preview image"
+msgstr ""
+
+#: views/sim-lensedit.php:61
+msgid "Lens width:"
+msgstr ""
+
+#: views/sim-lensedit.php:69
+msgid "A percentage of the image width."
+msgstr ""
+
+#: views/sim-lensedit.php:80
+msgid "Lens height:"
+msgstr ""
+
+#: views/sim-lensedit.php:88
+msgid "A percentage of the image height."
+msgstr ""
+
+#: views/sim-lensedit.php:100
+msgid "Lens corner radius:"
+msgstr ""
+
+#: views/sim-lensedit.php:122
+msgid "Show zoom level:"
+msgstr ""
+
+#: views/sim-lensedit.php:130
+msgid "Show the current zoom level or not."
+msgstr ""
+
+#: views/sim-lensedit.php:136
+msgid "Cursor type:"
+msgstr ""
+
+#: views/sim-lensedit.php:141
+msgid "None"
+msgstr ""
+
+#: views/sim-lensedit.php:148
+msgid "The mouse cursor to use on image mouse-over."
+msgstr ""
+
+#: views/sim-lensedit.php:168
+msgid ""
+"Both of these additional actions are unnecessary in the premium version."
+msgstr ""
+
+#: views/sim-lensedit.php:172
+msgid "To apply a lens to an image:"
+msgstr ""
+
+#: views/sim-lensedit.php:173
+msgid "Edit the post or page that contains the image"
+msgstr ""
+
+#: views/sim-lensedit.php:174
+msgid "Click the Visual tab in the editor"
+msgstr ""
+
+#: views/sim-lensedit.php:175
+msgid "Select the image and click"
+msgstr ""
+
+#: views/sim-lensedit.php:176
+msgid "Select the lens to apply from the drop-down and click OK"
+msgstr ""
+
+#: views/sim-lensedit.php:177
+msgid "Update, save the post or page"
+msgstr ""
+
+#: views/sim-upgrade.php:28
+msgid "SI Magnifier upgrade"
+msgstr ""
+
+#: views/sim-upgrade.php:33
+msgid "There is a premium version, just"
+msgstr ""
+
+#: views/sim-upgrade.php:34
+msgid "It does everything this version does as well as supporting ..."
+msgstr ""
+
+#: views/sim-upgrade.php:37
+msgid "WooCommerce single product gallery images"
+msgstr ""
+
+#: views/sim-upgrade.php:38
+msgid "WP Multi-site"
+msgstr ""
+
+#: views/sim-upgrade.php:39
+msgid "additional len's styling options"
+msgstr ""
+
+#: views/sim-upgrade.php:40
+msgid "additional cursor types"
+msgstr ""
+
+#: views/sim-upgrade.php:41
+msgid "no limit imposed on the number of lenses"
+msgstr ""
+
+#: views/sim-upgrade.php:42
+msgid "use of CSS class names to render lenses"
+msgstr ""
+
+#: views/sim-upgrade.php:43
+msgid ""
+"filter posts and pages in admin listings based on existance of one or more "
+"lenses in a post or page"
+msgstr ""
+
+#: views/sim-upgrade.php:44
+msgid "use full size option"
+msgstr ""
+
+#: views/sim-upgrade.php:45
+msgid "auto rendering"
+msgstr ""
+
+#: views/sim-upgrade.php:46
+msgid "lazyloading, transitions and flex-boxes"
+msgstr ""
+
+#: views/sim-upgrade.php:47
+msgid "usage control"
+msgstr ""
+
+#: views/sim-upgrade.php:48
+msgid "custom preview image"
+msgstr ""
+
+#: views/sim-upgrade.php:51
+msgid ""
+"When this option is enabled, the original , uploaded image is used as the "
+"magnified image's drawing source. This results in greater clarity of detail "
+"in the magnified portion of the image especially when smaller custom image "
+"sizes are in use."
+msgstr ""
+
+#: views/sim-upgrade.php:52
+msgid ""
+"Sometimes when you visit a page the mouse ends up already positioned over an "
+"image.  In such cases, if a lens has been configured, it will be "
+"automatically rendered as soon as the mouse is moved."
+msgstr ""
+
+#: views/sim-upgrade.php:53
+msgid "Assign SI Magnfifier editors and users based on capability levels."
+msgstr ""
+
+#: views/sim-upgrade.php:56
+msgid "You can see screenshots and demos and purchase via my site."
+msgstr ""
+
+#: views/sim-upgrade.php:58
+msgid "SI Magnifier Premium"
+msgstr ""
+
+#: views/sim-upgrade.php:64
+msgid "Premium not for you?"
+msgstr ""
+
+#: views/sim-upgrade.php:67
+msgid ""
+"If you like SI Magnifier free please consider making a small donation by "
+"visting my site."
+msgstr ""
+
+#: views/sim-upgrade.php:68
+msgid "Make a donation to"
+msgstr ""
+
+#: views/sim-upgrade.php:69
+msgid "Any amount would be greatly appreciated. Thanks."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "SI Magnifier"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://markweastwood.co.uk/si-magnifier-free"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A free image mouse-over magnifier. No second, larger image required. Comes "
+"with four predefined lenses. Supports responsive images, mouse wheel zoom, "
+"multiple lenses and lens types in posts and pages."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mark W. Eastwood <markweastwood.co.uk>"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://markweastwood.co.uk"
+msgstr ""
